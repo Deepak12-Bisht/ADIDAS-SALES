@@ -75,6 +75,7 @@ Here are the major takeaways from the analysis:
 ## 🛠️ Tools & Technologies
 
 - Microsoft Power BI
+- Power Query for data cleaning and strutured
 - Excel
 - GitHub for version control
 
